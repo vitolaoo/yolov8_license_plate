@@ -1,0 +1,11 @@
+
+path: C:/caminho/para/data
+train: images/train
+val: images/val
+
+
+names:
+  0: cars-br
+  1: cars-me
+  2: motorcycles-br
+  3: motorcycles-me
